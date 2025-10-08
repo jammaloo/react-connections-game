@@ -1,2 +1,2 @@
-export const GAME_TITLE = "Black Connections";
+export const GAME_TITLE = "Tammi's Connections";
 export const MAX_MISTAKES = 4;
