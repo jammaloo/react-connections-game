@@ -25,7 +25,7 @@ function GameControlButtonsPanel({
     solvedGameData,
     setSolvedGameData,
   } = React.useContext(GameStatusContext);
-  const { gameData, categorySize } = React.useContext(PuzzleDataContext);
+  const { gameData, categorySize, hasRepeats } = React.useContext(PuzzleDataContext);
   const { toast } = useToast();
 
   function deselectAll() {
@@ -33,12 +33,12 @@ function GameControlButtonsPanel({
   }
 
   function submitCandidateGuess() {
-    // check that its a valid guess by size
+    // check that it's a valid guess by size
     if (guessCandidate.length !== categorySize) {
       return;
     }
-    // check that the guess hasnt already been submitted previously
-    if (isGuessRepeated({ submittedGuesses, guessCandidate })) {
+    // check that the guess hasn't already been submitted previously
+    if (!hasRepeats && isGuessRepeated({ submittedGuesses, guessCandidate })) {
       toast({
         label: "Notification",
         title: "Repeated Guess",
@@ -49,6 +49,7 @@ function GameControlButtonsPanel({
     }
     // add guess to state
     setSubmittedGuesses([...submittedGuesses, guessCandidate]);
+    const checkGameData = hasRepeats ? gameData.slice(solvedGameData.length) : gameData;
     // check if the guess is correct
     const {
       isCorrect,
@@ -59,7 +60,7 @@ function GameControlButtonsPanel({
       correctImageSrc,
     } = isGuessCorrect({
       guessCandidate,
-      gameData,
+      gameData: checkGameData,
     });
 
     // if the guess is correct:

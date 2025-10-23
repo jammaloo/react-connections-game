@@ -8,13 +8,15 @@ function WordButton({ word, fullCandidateSize }) {
   const { guessCandidate, setGuessCandidate } =
     React.useContext(GameStatusContext);
   const [isSelected, setIsSelected] = React.useState(
-    !!guessCandidate.includes(word)
+      false
   );
 
-  const isCandidateListFull = guessCandidate.length == fullCandidateSize;
+  const isCandidateListFull = guessCandidate.length === fullCandidateSize;
 
   React.useEffect(() => {
-    setIsSelected(!!guessCandidate.includes(word));
+    if (guessCandidate.length === 0) {
+      setIsSelected(false);
+    }
   }, [guessCandidate]);
 
   function flipSelection() {

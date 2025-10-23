@@ -5,6 +5,7 @@ export const saveGameStateToLocalStorage = (gameState) => {
 };
 
 export const loadGameStateFromLocalStorage = () => {
+  return null;
   const state = localStorage.getItem(gameStateKey);
   return state ? JSON.parse(state) : null;
 };
