@@ -19,7 +19,7 @@ function SingleMistakeDisplay({ isUsed }) {
 function NumberOfMistakesDisplay() {
   const { numMistakesUsed } = React.useContext(GameStatusContext);
   // array size of number of guess. [1, 2, 3, 4]
-  const mistakeRange = range(MAX_MISTAKES);
+  const mistakeRange = range(Math.min(MAX_MISTAKES, 4));
   return (
     <div className="flex flex-row gap-x-4 justify-center">
       <p className="text-base">Mistakes Remaining: </p>
