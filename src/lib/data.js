@@ -136,7 +136,7 @@ export const CONNECTION_GAMES = [
       "category": "Famous Hamiltonians",
       "words": [
         "Short",
-        "Kirby",
+        "Appleton",
         "Shai",
         "E.D."
       ],
