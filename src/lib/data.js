@@ -452,7 +452,7 @@ export const CONNECTION_GAMES = [
       "words": [
         "Thorns",
         "Mist",
-        "Wings",
+        "Silver",
         "Frost"
       ],
       "difficulty": 1,
