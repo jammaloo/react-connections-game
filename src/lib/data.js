@@ -216,7 +216,7 @@ export const CONNECTION_GAMES = [
         "Lalo",
         "Momma",
         "Blippi",
-        "Dad(dy/da)"
+        "Dadda"
       ],
       "difficulty": 1,
       "imageSrc": null
