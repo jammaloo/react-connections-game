@@ -173,7 +173,7 @@ export const CONNECTION_GAMES = [
         "France",
         "Miller"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
       ],[
@@ -196,7 +196,7 @@ export const CONNECTION_GAMES = [
         "What you doing hombre?",
         "Mamma, Watch, Promise"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -207,7 +207,7 @@ export const CONNECTION_GAMES = [
         "Jugo",
         "Soda"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -218,7 +218,7 @@ export const CONNECTION_GAMES = [
         "Blippi",
         "Dadda"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
       ],[
@@ -268,12 +268,12 @@ export const CONNECTION_GAMES = [
     },
       ],[
     {
-      "category": "Christopher Plummer Roles",
+      "category": "Call Me",
       "words": [
-        "Harlan Thrombey",
-        "Henrik Vanger",
-        "Charles Muntz",
-        "Georg Von Trapp"
+        "Out",
+        "Al",
+        "Maybe",
+        "Back"
       ],
       "difficulty": 1,
       "imageSrc": null
