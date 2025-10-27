@@ -19,7 +19,7 @@ export const CONNECTION_GAMES = [
         "Flies",
         "Gnats"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -30,7 +30,7 @@ export const CONNECTION_GAMES = [
         "Rottweil",
         "Lhasa"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -41,7 +41,7 @@ export const CONNECTION_GAMES = [
         "Beans",
         "Milk"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
       ], [
@@ -64,7 +64,7 @@ export const CONNECTION_GAMES = [
         "Jason Isaacs",
         "David Morrisey"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -75,7 +75,7 @@ export const CONNECTION_GAMES = [
         "English Country",
         "Waltz"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -86,7 +86,7 @@ export const CONNECTION_GAMES = [
         "Robin",
         "Lloyd"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
       ],[
@@ -109,7 +109,7 @@ export const CONNECTION_GAMES = [
         "Missy Elliott",
         "Tupac"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -120,7 +120,7 @@ export const CONNECTION_GAMES = [
         "Alex Tessier",
         "Tyson Beukeboom"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -131,7 +131,7 @@ export const CONNECTION_GAMES = [
         "Soylent Green is people!",
         "Let My People Go"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
       ],[
@@ -154,7 +154,7 @@ export const CONNECTION_GAMES = [
         "Tarriff",
         "Toll"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -165,7 +165,7 @@ export const CONNECTION_GAMES = [
         "Cutting",
         "Cheese"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
