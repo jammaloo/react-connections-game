@@ -124,7 +124,7 @@ export const CONNECTION_GAMES = [
       "imageSrc": null
     },
     {
-      "category": "Beatles Covers",
+      "category": "Songs the Beatles Covered",
       "words": [
         "Twist & Shout", "Act naturally", "Mr Moonlight", "Chains"
       ],
