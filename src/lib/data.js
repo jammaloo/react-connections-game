@@ -371,10 +371,10 @@ export const CONNECTION_GAMES = [
     {
       "category": "Midsomer Murders Famous Actors",
       "words": [
-        "Orlando Bloom",
-        "Henry Cavill",
-        "Hugh Bonneville",
-        "Olivia Coleman"
+        "Bloom",
+        "Cavill",
+        "Bonneville",
+        "Coleman"
       ],
       "difficulty": 1,
       "imageSrc": null
