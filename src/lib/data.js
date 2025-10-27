@@ -292,10 +292,10 @@ export const CONNECTION_GAMES = [
     {
       "category": "Need more Cowbell Actors",
       "words": [
-        "Will Ferrell",
-        "Christopher Walken",
-        "Jimmy Fallon",
-        "Chris Parnell"
+        "Ferrell",
+        "Walken",
+        "Fallon",
+        "Parnell"
       ],
       "difficulty": 1,
       "imageSrc": null
