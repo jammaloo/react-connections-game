@@ -43,15 +43,7 @@ function WordButton({ word, fullCandidateSize }) {
 
   function getFontSize(word) {
     const baseLength = 7;
-    let wordLength = 0;
-    word.split(" ").map(w => {
-      if (w.length > wordLength) {
-        wordLength = w.length;
-      }
-    })
-    if (word.length > 30) {
-      wordLength *= 1.5;
-    }
+    let wordLength = word.length;
     let fontSize = 1;
     if (wordLength > baseLength) {
       const numExtraChars = wordLength - baseLength;
