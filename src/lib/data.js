@@ -79,7 +79,7 @@ export const CONNECTION_GAMES = [
       "imageSrc": null
     },
     {
-      "category": "Famous Christophers?",
+      "category": "Famous Christophers",
       "words": [
         "Plummer",
         "Lee",
