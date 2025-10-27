@@ -124,12 +124,9 @@ export const CONNECTION_GAMES = [
       "imageSrc": null
     },
     {
-      "category": "Charleton Heston Movie Quotes",
+      "category": "Beatles Covers",
       "words": [
-        "Damn you, Goddamn you all to hell",
-        "Take your stinking paw off me you damn dirty ape!",
-        "Soylent Green is people!",
-        "Let My People Go"
+        "Twist & Shout", "Act naturally", "Mr Moonlight", "Chains"
       ],
       "difficulty": 4,
       "imageSrc": null
