@@ -549,12 +549,12 @@ export const CONNECTION_GAMES = [
       "imageSrc": null
     },
     {
-      "category": "Spumoni",
+      "category": "Hot -",
       "words": [
-        "Spumoni",
-        "Spimoni",
-        "Spumoney",
-        "Spomoni"
+        "Dog",
+        "Damn",
+        "Water",
+        "Chocolate"
       ],
       "difficulty": 1,
       "imageSrc": null
@@ -564,19 +564,19 @@ export const CONNECTION_GAMES = [
       "words": [
         "Horses",
         "Phone Boxes",
-        "Stained Glass",
+        "Spumoni",
         "Shirley Temples"
       ],
       "difficulty": 1,
       "imageSrc": null
     },
     {
-      "category": "Spumoni puns",
+      "category": "Famous rabbits",
       "words": [
-        "Spumoni (That's what I want)",
-        "Spumoni Danza",
-        "Spumoni Lisa",
-        "Spumonkey business"
+        "Roger",
+        "Peter",
+        "Bugs",
+        "Thumper"
       ],
       "difficulty": 1,
       "imageSrc": null
