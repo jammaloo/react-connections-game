@@ -248,7 +248,7 @@ export const CONNECTION_GAMES = [
       "category": "Things that have shells",
       "words": [
         "Turtles",
-        "Reece's Pieces",
+        "Crabs",
         "Snails",
         "Eggs"
       ],
