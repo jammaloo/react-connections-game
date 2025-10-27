@@ -80,6 +80,6 @@
   }
 }
 
-.text-sm {
-  line-height: inherit;
+* {
+  line-height: inherit !important;
 }

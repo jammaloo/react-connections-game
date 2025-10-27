@@ -126,7 +126,7 @@ export const CONNECTION_GAMES = [
     {
       "category": "Charleton Heston Movie Quotes",
       "words": [
-        "Damn you, God Damn you all to hell",
+        "Damn you, Goddamn you all to hell",
         "Take your stinking paw off me you damn dirty ape!",
         "Soylent Green is people!",
         "Let My People Go"
