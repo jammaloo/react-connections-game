@@ -313,12 +313,12 @@ export const CONNECTION_GAMES = [
     },
   ],[
     {
-      "category": "Celebrities who died and were replaced",
+      "category": "Cary Elwes Roles",
       "words": [
-        "Paul McCartney",
-        "Avril Lavigne",
-        "Eminem",
-        "Kanye West"
+        "Westley",
+        "Robin Hood",
+        "Scott Roemer",
+        "Myles Dunbar"
       ],
       "difficulty": 1,
       "imageSrc": null
@@ -326,10 +326,10 @@ export const CONNECTION_GAMES = [
     {
       "category": "Left Handed Guitarists",
       "words": [
-        "Jimi Hendrix",
-        "Paul McCartney",
-        "Kurt Cobain",
-        "Tony Iommi"
+        "Hendrix",
+        "McCartney",
+        "Cobain",
+        "Iommi"
       ],
       "difficulty": 1,
       "imageSrc": null
@@ -337,10 +337,10 @@ export const CONNECTION_GAMES = [
     {
       "category": "People on Sgt Pepper Album Cover",
       "words": [
-        "Mae West",
-        "Fred Astaire",
-        "Marilyn Monroe",
-        "Oscar Wilde"
+        "Poe",
+        "Astaire",
+        "Monroe",
+        "Wilde"
       ],
       "difficulty": 1,
       "imageSrc": null
