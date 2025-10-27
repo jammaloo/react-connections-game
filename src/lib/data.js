@@ -192,7 +192,7 @@ export const CONNECTION_GAMES = [
       "category": "Arthur's Favourite Phrases",
       "words": [
         "No",
-        "When Dadda done eating, he can play with you",
+        "Ice Ice Baby",
         "What you doing hombre?",
         "Mamma, Watch, Promise"
       ],
