@@ -91,9 +91,9 @@ export const CONNECTION_GAMES = [
     },
       ],[
     {
-      "category": "Wrappers",
+      "category": "Wraps",
       "words": [
-        "Candy",
+        "Saran",
         "Vinyl",
         "Gift",
         "Tortilla"
