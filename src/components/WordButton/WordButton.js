@@ -61,6 +61,8 @@ function WordButton({ word, fullCandidateSize }) {
       variant="outline"
       pressed={isSelected}
       onClick={flipSelection}
+      style={{backgroundColor: isSelected ? '#5a594e' : '#efefe6',
+      color: isSelected ? '#ffffff' : '#152342'}}
     >
       <p
         style={{ fontSize: getFontSize(word) }}

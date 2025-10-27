@@ -241,7 +241,7 @@ export const CONNECTION_GAMES = [
         "Root beer",
         "Skittles"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -252,7 +252,7 @@ export const CONNECTION_GAMES = [
         "Snails",
         "Eggs"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -263,7 +263,7 @@ export const CONNECTION_GAMES = [
         "Foul",
         "Role"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
       ],[
@@ -286,7 +286,7 @@ export const CONNECTION_GAMES = [
         "Dumb",
         "Cow"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -297,7 +297,7 @@ export const CONNECTION_GAMES = [
         "Fallon",
         "Parnell"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -308,7 +308,7 @@ export const CONNECTION_GAMES = [
         "Vienna",
         "Liverpool"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
   ],[
@@ -331,7 +331,7 @@ export const CONNECTION_GAMES = [
         "Cobain",
         "Iommi"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -342,7 +342,7 @@ export const CONNECTION_GAMES = [
         "Monroe",
         "Wilde"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -353,7 +353,7 @@ export const CONNECTION_GAMES = [
         "Maureen",
         "Cynthia"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
   ],[
@@ -376,7 +376,7 @@ export const CONNECTION_GAMES = [
         "Bonneville",
         "Coleman"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -387,7 +387,7 @@ export const CONNECTION_GAMES = [
         "Dan",
         "Tom"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -398,7 +398,7 @@ export const CONNECTION_GAMES = [
         "Cully",
         "Joyce"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
   ],[
@@ -421,7 +421,7 @@ export const CONNECTION_GAMES = [
         "Insulin",
         "Trivial Pursuit"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -432,7 +432,7 @@ export const CONNECTION_GAMES = [
         "Pictionary",
         "Balderdash"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -443,7 +443,7 @@ export const CONNECTION_GAMES = [
         "Jorge",
         "Ricardo"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
   ],[
@@ -466,7 +466,7 @@ export const CONNECTION_GAMES = [
         "Dean",
         "McAvoy"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -477,7 +477,7 @@ export const CONNECTION_GAMES = [
         "Serena",
         "Tell"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -488,7 +488,7 @@ export const CONNECTION_GAMES = [
         "Locks",
         "Wings"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
   ],[
@@ -511,7 +511,7 @@ export const CONNECTION_GAMES = [
         "Buster",
         "DW"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -522,7 +522,7 @@ export const CONNECTION_GAMES = [
         "Ms Lemon",
         "Japp"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -533,7 +533,7 @@ export const CONNECTION_GAMES = [
         "Jane",
         "Roald"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
   ],[
@@ -556,7 +556,7 @@ export const CONNECTION_GAMES = [
         "Water",
         "Chocolate"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -567,7 +567,7 @@ export const CONNECTION_GAMES = [
         "Spumoni",
         "Shirley Temples"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -578,7 +578,7 @@ export const CONNECTION_GAMES = [
         "Bugs",
         "Thumper"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     },
   ],[
@@ -601,7 +601,7 @@ export const CONNECTION_GAMES = [
         "Paul",
         "Paul"
       ],
-      "difficulty": 1,
+      "difficulty": 2,
       "imageSrc": null
     },
     {
@@ -612,7 +612,7 @@ export const CONNECTION_GAMES = [
         "Paul",
         "Paul"
       ],
-      "difficulty": 1,
+      "difficulty": 3,
       "imageSrc": null
     },
     {
@@ -623,7 +623,7 @@ export const CONNECTION_GAMES = [
         "Paul",
         "Paul"
       ],
-      "difficulty": 1,
+      "difficulty": 4,
       "imageSrc": null
     }
   ]

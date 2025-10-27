@@ -91,26 +91,7 @@ function GameControlButtonsPanel({
   }
 
   return (
-    <div className="grid grid-cols-3 gap-4">
-      <Button
-        disabled={isGameOver}
-        variant="secondary"
-        onClick={() =>
-          setShuffledRows(shuffleGameData({ gameData: shuffledRows }))
-        }
-      >
-        <Shuffle className="h-4 w-4 mr-2" strokeWidth={1} />
-        <p className="select-none">Shuffle</p>
-      </Button>
-      <Button
-        size="deselectallsize"
-        disabled={isGameOver}
-        variant="secondary"
-        onClick={deselectAll}
-      >
-        <Undo className="h-4 w-4 mr-2" strokeWidth={1} />
-        <p className="select-none">Deselect All</p>
-      </Button>
+    <div className="grid grid-cols-1 gap-4">
       <Button
         variant="submit"
         onClick={submitCandidateGuess}
