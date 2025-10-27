@@ -583,7 +583,7 @@ export const CONNECTION_GAMES = [
     },
   ],[
     {
-      "category": "We're",
+      "category": "You're",
       "words": [
         "Paul",
         "Paul",
